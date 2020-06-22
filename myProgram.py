@@ -21,6 +21,8 @@ print(vios.maximum_velocity)
 blueSG = ElectricCar ('4', 5, 150)
 blueSG.drive()
 
+print("hello world")
+
 
 
 
